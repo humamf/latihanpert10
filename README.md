@@ -53,13 +53,13 @@ print("   Hasil : lambda s: "".join(set(s)))")
 Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
 Berikut outputnya
 
-![Soal praktikum](https://user-images.githubusercontent.com/72872663/100846604-4c5dbf00-34b1-11eb-9171-7a54a5dc614d.png)
+![latihan 1](https://user-images.githubusercontent.com/72872663/100846189-ca6d9600-34b0-11eb-9456-1a612aca2ef6.PNG)
  * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
  
  ## Tugas Praktikum
  * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
- ![hasil](isi%20foto/Soal%20praktikum.png)
+![Soal praktikum](https://user-images.githubusercontent.com/72872663/100846604-4c5dbf00-34b1-11eb-9171-7a54a5dc614d.png)
  
 * Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
